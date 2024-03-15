@@ -1,6 +1,6 @@
 # 🌿🌿 Hello there! I'm Liz. 🌿🌿
 ![Art of me holding plant](img.png)
-#### Welcome to my workspace! I occasionally participate in online hackathons, learn about ML, & draw :) 
+#### Welcome to my workspace!
 [My portfolio](https://lizzzshan-portfolio.carrd.co/) - [LinkedIn](https://www.linkedin.com/in/elizabeth-shan-776b13183/) - [Devpost](https://devpost.com/lizzzshan?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
 
 # 🌿My projects
